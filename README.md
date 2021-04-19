@@ -1,1 +1,3 @@
-# weather-app
+# Weather-App
+
+[React](https://reactjs.org/)
